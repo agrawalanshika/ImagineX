@@ -51,7 +51,7 @@ ImagineX/
 
 ## ⚙️ How to Run the Project
 
-## Backend Setup
+### Backend Setup
 
 ```bash
 cd Backend
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 uvicorn backend:app --reload
 ```
 
-## Frontend Setup
+### Frontend Setup
 
 - Open `Frontend/index.html` directly in your browser  
   **OR**
