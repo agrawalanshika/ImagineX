@@ -51,7 +51,7 @@ ImagineX/
 
 ## ⚙️ How to Run the Project
 
-### 1️⃣ Backend Setup
+## Backend Setup
 
 ```bash
 cd Backend
